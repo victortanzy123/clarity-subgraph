@@ -1,7 +1,7 @@
 {
-    "network": "base-sepolia",
-    "Clarity_Address": "0xD8ddF4B409c0CE730c1BE601cF7839Bec9446CdB",
-    "Clarity_StartBlock": 6733308,
-    "ClaritySPHook_Address": "0x3d19B632faD6Da763Ae6093CabBCA6bE75eB5013",
-    "ClaritySPHook_StartBlock": 6733303
-  }
+  "network": "base-sepolia",
+  "Clarity_Address": "0xf46e3b69cade327915b7ce6da7aa64624303c83e",
+  "Clarity_StartBlock": 15582935,
+  "ClaritySPHook_Address": "0x8932ec030eb39df9d5d824bca3e68d05a0424ba6",
+  "ClaritySPHook_StartBlock": 15582890
+}

@@ -10,17 +10,10 @@ import {
   ReviewAttested,
 } from '../../generated/Clarity/Clarity';
 // Schema
-import {
-  User,
-  Manager,
-  Order,
-  Transaction,
-  Merchant,
-  Payee,
-} from '../../generated/schema';
+import { User, Manager, Order } from '../../generated/schema';
 // Helper
 import { getManager } from '../entities/manager';
-import { NATIVE, ONE_BI, ZERO_BI, ZERO_BYTES } from '../utils/constants.template';
+import { NATIVE, ONE_BI, ZERO_BI } from '../utils/constants.template';
 import { loadTransaction } from '../entities/transaction';
 
 import { getMerchantUser, getPayee } from '../entities/user';

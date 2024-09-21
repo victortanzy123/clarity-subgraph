@@ -18,8 +18,8 @@ export const ERC20_INTERFACE_ID = Bytes.fromHexString('0x36372b07');
 export const NATIVE = '0xeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee';
 export const NATIVE_ALT = '0x0000000000000000000000000000000000000000';
 
-export const CLARITY_MANAGER = '0xD8ddF4B409c0CE730c1BE601cF7839Bec9446CdB'.toLowerCase(); // replace this
-export const CLARITY_HOOK = '0x3d19B632faD6Da763Ae6093CabBCA6bE75eB5013'.toLowerCase(); // replace this
+export const CLARITY_MANAGER = '0xf46e3b69cadE327915b7cE6da7AA64624303c83e'.toLowerCase(); // replace this
+export const CLARITY_HOOK = '0x8932eC030EB39dF9d5d824BCa3E68d05a0424ba6'.toLowerCase(); // replace this
 export const DEFAULT_FEE_AMOUNT_BPS = BigDecimal.fromString('300');
 export const BASE_BPS = BigDecimal.fromString('10000');
 
